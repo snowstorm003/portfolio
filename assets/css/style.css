@@ -328,6 +328,10 @@ section {
   color: #173b6c;
 }
 
+.section-title h2 img {
+
+}
+
 .section-title h2::after {
   content: "";
   position: absolute;
