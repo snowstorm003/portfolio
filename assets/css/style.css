@@ -1106,6 +1106,11 @@ section {
   color: #eaebf0;
 }
 
+.credits a{
+  color: #149DDD;
+  font-weight: bold;
+}
+
 @media (max-width: 1199px) {
   #footer {
     position: static;
