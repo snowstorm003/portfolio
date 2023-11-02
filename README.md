@@ -1,1 +1,1 @@
-<a href="https://tusharm.in" target="_blank" rel="noopener"> Tushar's Portfolio </a>
+<a href="https://tusharm.in" target="_blank"> Tushar's Portfolio </a>
